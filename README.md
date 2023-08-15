@@ -1,11 +1,12 @@
+Hello World 🖖, I'm Ronison Matos
 
--👋 Olá, eu sou Ronison!
--🚀 Desenvolvedor entusiasta apaixonado por transformar linhas de código em soluções impactantes. Minha jornada pelo mundo da programação começou 3 anos atrás e desde então tenho explorado um universo de possibilidades.
--💼 Atualmente, estou focado em meu TCC da Pós-graduação Full Stack.
--🔍 Estou sempre em busca de desafios estimulantes e colaborações criativas. Se você tem uma ideia interessante ou está buscando parcerias, vamos conversar!
--🌱 Aprendizado contínuo é a minha filosofia. A cada dia, procuro expandir meus conhecimentos em JavaScript e ReactJS.
--🎯 Meus objetivos incluem contribuir para projetos Open Source, compartilhar conhecimento por meio de artigos técnicos e aprender com a incrível comunidade de desenvolvedores do GitHub.
+- 🔭 I’m currently working on JS projects with my students
+- 👀 I’m interested in HTML | CSS | JS | ReactJS
+- 🌱 I’m currently learning JS
+- 👯 I’m looking to collaborate with my knoledges
+- 📫 How to reach me ronisonmaria@gmail.com
 
--Vamos juntos construir um futuro digital incrível! ✨👨‍💻
+[![LinkedIn Badget](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karine-ballardin)](https://www.linkedin.com/in/ronison-matos)
+
 
 <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"><img alt="JS" title="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
