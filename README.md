@@ -1,3 +1,4 @@
+
 -👋 Olá, eu sou Ronison!
 -🚀 Desenvolvedor entusiasta apaixonado por transformar linhas de código em soluções impactantes. Minha jornada pelo mundo da programação começou 3 anos atrás e desde então tenho explorado um universo de possibilidades.
 -💼 Atualmente, estou focado em meu TCC da Pós-graduação Full Stack.
@@ -6,4 +7,6 @@
 -🎯 Meus objetivos incluem contribuir para projetos Open Source, compartilhar conhecimento por meio de artigos técnicos e aprender com a incrível comunidade de desenvolvedores do GitHub.
 
 -Vamos juntos construir um futuro digital incrível! ✨👨‍💻
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
