@@ -8,5 +8,4 @@
 
 -Vamos juntos construir um futuro digital incrível! ✨👨‍💻
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-<img alt="JS" title="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"><img alt="JS" title="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
