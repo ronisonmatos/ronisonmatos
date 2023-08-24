@@ -1,7 +1,6 @@
 Hello World 🖖, I'm Ronison Matos
 
-- 🔭 I’m currently working on JS projects with my students
-- 👀 I’m interested in HTML | CSS | JS | ReactJS
+- 🔭 I am currently working on my TCC project 
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with my knoledges
 - 📫 How to reach me ronisonmaria@gmail.com
