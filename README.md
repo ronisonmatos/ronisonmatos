@@ -1,4 +1,4 @@
-- 🔭 Atualmente estou trabalhando no meu projeto TCC
+- 👨‍🎓 Trabalhando no meu projeto TCC (RivoLink)
 - 🌱 Atualmente estou aprendendo <img alt="JS" title="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">, <img alt="JS" title="ReactJS" width="20px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> e <img alt="JS" title="Node.JS" width="20px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
 - 🕵️‍♂️ Entusiasta sobre cibersegurança
 - 🐧 Usuário Linux nas horas vagas
